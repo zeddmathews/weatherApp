@@ -8,4 +8,4 @@ A simple weather application with user functionality and roles dependent on user
   
   ->NPM for package management.
   
-  ->MySQL for user management
+  ->MSSQL for database management.
